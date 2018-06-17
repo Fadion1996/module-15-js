@@ -1,0 +1,18 @@
+.container {
+  width: 400px;
+  margin: 0 auto;
+}
+.timer {
+  display: flex;
+  justify-content: center;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+.buttons button {
+  margin: 20px;
+}
+.result {
+  text-align: center;
+}
